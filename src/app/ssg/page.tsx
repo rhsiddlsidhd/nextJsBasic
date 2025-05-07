@@ -30,7 +30,7 @@ const Page = async () => {
     <div>
       <Head>
         <title>STATIC SITE GENERATION</title>
-        <link rel="icon" href="/favicon.ico"></link>
+        <link rel="icon" href="#"></link>
       </Head>
       <main>
         <p>이 페이지는 정적 사이트 생성을 통해 빌드 시 생성된 페이지입니다.</p>
